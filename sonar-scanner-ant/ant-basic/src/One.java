@@ -1,5 +1,5 @@
 public class One {
-  String message = "foo";
+  String message = "test";
 
   public String foo() {
     return message;
